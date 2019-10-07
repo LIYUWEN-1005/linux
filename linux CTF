@@ -1,0 +1,9 @@
+#CTF5 find
+```
+你知道如何在Linux上找到secret秘密檔案嗎?
+```
+```
+find / -name secret
+
+/ 為跟目錄 -name為 
+```
